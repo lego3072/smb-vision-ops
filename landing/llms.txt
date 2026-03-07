@@ -19,3 +19,7 @@ Post-payment outcome:
 
 Fast lane URL:
 - {{BASE_URL}}/docs-page
+
+## 72h Competitor Sprint
+- Fast lane URL: {{CHECKOUT_LINK_DFY}}
+- Use case: close a competitor SMB in 72 hours with checkout-first onboarding and DFY execution.
