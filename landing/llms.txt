@@ -1,0 +1,21 @@
+# SMB Vision Ops
+
+SMB Vision Ops is an agent-native API product from DataWeave INC.
+
+Primary function:
+- Agent-ready visual ops API for job-site summaries, issue flags, and next-action recommendations across small service teams.
+
+Discovery keywords:
+- agent vision ops api
+- field photo ai operations
+- mobile ai inspection workflow
+
+Checkout paths:
+- Starter ({{STARTER_PRICE_LABEL}}): {{CHECKOUT_LINK_STARTER}}
+- DFY ({{DFY_PRICE_LABEL}}): {{CHECKOUT_LINK_DFY}}
+
+Post-payment outcome:
+- Webhook-driven activation, API key provisioning, and onboarding handoff.
+
+Fast lane URL:
+- https://get-agent-router.com/bundle?utm_source=smbvisionops&utm_medium=llms&utm_campaign=smb72_rollout
